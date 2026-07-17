@@ -1,0 +1,53 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "LOOSEENDS_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "23700001",
+      "localizations" : [],
+      "name" : "Loose Ends Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "looseends_pro_monthly_id",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "AI auto-triage, proactive honesty check-ins, and the honesty streak tracker.",
+              "displayName" : "Loose Ends Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.looseends.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Loose Ends Pro Monthly",
+          "subscriptionGroupID" : "23700001",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

@@ -1,0 +1,15 @@
+# Xcodegen-generated project (regenerate via `xcodegen generate` from project.yml)
+*.xcodeproj
+
+# Xcode / build artifacts
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+.build/
+
+# macOS
+.DS_Store
+
+# Simulator / test results
+*.xcresult/
