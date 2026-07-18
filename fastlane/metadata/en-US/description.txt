@@ -1,0 +1,7 @@
+Your head is full of loops that never close. Call the dentist, buy batteries, text Sam back, book the car in. The hard part is rarely doing these things, it is holding them all and deciding where each one goes. Loose Ends removes that filing step.
+
+There is one capture box. Type a thought, or hold the mic and speak, then hit Capture. Each fragment lands on screen as a scattered sticky note and snaps into one of four bins along the bottom: Reminders, Calendar, Shopping, and Follow-ups. Tap a bin to see everything filed inside it, with the original text, any extracted details, and its check-in status. Speech is transcribed on your device, your notes are stored on your phone, and no account is needed.
+
+The free version includes unlimited capture by voice or keyboard, all four bins with full history, and the full snap-into-place animation; you file each note yourself with a tap. Loose Ends Pro is an auto-renewing monthly subscription at $5.99 per month. With Pro, AI reads each captured fragment and files it automatically, pulling out a date, an item name, or a person's name when it finds one. Pro also adds honesty check-ins: after a quiet waiting period, the app asks one direct yes or no question about a specific item, like "Did you call the dentist?", and keeps a plain streak of loops you actually closed, with no badges or confetti. AI requests are processed via our servers; only the text of a fragment is sent, and nothing is stored there.
+
+Get the loops out of your head, and watch them land where they belong.
