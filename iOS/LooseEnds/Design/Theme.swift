@@ -1,4 +1,5 @@
 import SwiftUI
+import UIKit
 
 /// Bespoke electric-lime-on-charcoal palette — deliberately the most
 /// saturated, highest-energy look in this batch. Lime is used everywhere
@@ -41,6 +42,16 @@ extension View {
                     RoundedRectangle(cornerRadius: cornerRadius, style: .continuous)
                         .stroke(LooseEndsTheme.hairline, lineWidth: 1)
                 )
+        )
+    }
+
+    /// Tap anywhere on this view to dismiss the keyboard. Uses a simultaneous
+    /// gesture so it never swallows taps meant for buttons/controls beneath it.
+    func dismissKeyboardOnTap() -> some View {
+        simultaneousGesture(
+            TapGesture().onEnded {
+                UIApplication.shared.sendAction(#selector(UIResponder.resignFirstResponder), to: nil, from: nil, for: nil)
+            }
         )
     }
 }

@@ -73,6 +73,7 @@ struct CaptureView: View {
             .onChange(of: geo.size) { _, newSize in
                 canvasSize = newSize
             }
+            .dismissKeyboardOnTap()
         }
         .coordinateSpace(name: "captureSpace")
         .onPreferenceChange(BinFramePreferenceKey.self) { frames in
